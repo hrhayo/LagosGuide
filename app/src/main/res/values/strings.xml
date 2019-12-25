@@ -1,0 +1,43 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Lagos Tour Guide</string>
+
+    <!-- Category name for monuments [CHAR LIMIT=20] -->
+    <string name="category_monuments">Sights</string>
+
+    <!-- Category name for the vocabulary words for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary words for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Food</string>
+
+    <!-- Category name for the vocabulary words for art galleries [CHAR LIMIT=20] -->
+    <string name="category_galleries">Gallery</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="art_cafe">The Art Cafe</string>
+    <string name="nike">The Nike Art Gallery</string>
+    <string name="red">Red Door Art Gallery</string>
+    <string name="terra">Terra-kulture</string>
+    <string name="thought">The Thought Pyramid</string>
+    <string name="eko">Eko Hotels and Suites</string>
+    <string name="four">Four Points by Sheraton</string>
+    <string name="lagos">Lagos Continental Hotel</string>
+    <string name="rad">Radisson Blu Anchorage Hotel</string>
+    <string name="tulip">Golden Tulip Hotel</string>
+    <string name="wheat">The Wheatbaker</string>
+    <string name="bad">Badagry Museum</string>
+    <string name="didi">Didi Museum</string>
+    <string name="free">Freedom Park</string>
+    <string name="kal">Kalakuta</string>
+    <string name="nation">National Theatre</string>
+    <string name="cactus">Cactus</string>
+    <string name="casp">Casper and Gambini\'s</string>
+    <string name="lou">Craft Gourmet by Lou Baker</string>
+    <string name="rsvp">The RSVP restaurant</string>
+    <string name="hard">Hard Rock Cafe</string>
+    <string name="ocean">Ocean Basket</string>
+
+
+</resources>
